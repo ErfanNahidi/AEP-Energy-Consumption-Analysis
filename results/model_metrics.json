@@ -1,0 +1,13 @@
+{
+    "mae": 1271.171652414718,
+    "mse": 2693109.249089538,
+    "rmse": 1641.0695442575059,
+    "mape": 8.197240669865744,
+    "baseline_mae": 1962.3586533650985,
+    "baseline_rmse": 2297.811395769817,
+    "mae_improvement": 35.22225663311428,
+    "rmse_improvement": 28.581190463296846,
+    "training_samples": 4690,
+    "testing_samples": 365,
+    "model_trained_at": "2025-11-19 14:05:42"
+}

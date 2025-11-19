@@ -1,0 +1,11 @@
+{
+    "total_records": 121273,
+    "date_range_start": "2004-10-01",
+    "date_range_end": "2018-08-03",
+    "mean_consumption": 15499.513716985644,
+    "median_consumption": 15310.0,
+    "std_consumption": 2591.399065407895,
+    "min_consumption": 9581.0,
+    "max_consumption": 25695.0,
+    "skewness": 0.3789980419049808
+}
