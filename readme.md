@@ -1,4 +1,3 @@
-```markdown
 # ⚡ AEP Energy Consumption Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
@@ -34,7 +33,6 @@ This project performs in-depth analysis of AEP's hourly energy consumption data 
 ```bash
 Python 3.7+
 Jupyter Notebook
-```
 
 ### Required Libraries
 ```bash
